@@ -1,0 +1,14 @@
+{
+  "name": "ezuuid",
+  "version": "0.0.0",
+  "description": "i love node-uuid, but i hate using it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-uuid": "^1.4.1"
+  }
+}
