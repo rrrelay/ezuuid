@@ -1,6 +1,6 @@
 {
   "name": "ezuuid",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "i love node-uuid, but i hate using it",
   "main": "index.js",
   "scripts": {
